@@ -8,4 +8,4 @@ In the graph above, you can see the particular case for the 2x2 matrix and the s
 
 ![image](https://user-images.githubusercontent.com/125805835/236692852-3f5d2fb9-e7de-4cd1-a5bf-34ccc82b5d8f.png)
 
-Also this case in 3d spaceю
+Also this case in 3d space.
